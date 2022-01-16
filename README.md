@@ -2,9 +2,6 @@
 Conceito de App desenvolvido com XamarinForms. </br>
 O que foi usado no desenvolvimento:
 - Padrão MVVM (sem framework)
-- PancakeView (https://github.com/sthewissen/Xamarin.Forms.PancakeView)
-- Embedded Fonts (https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts)
-- Sharpnado.Shadows (https://github.com/roubachof/Sharpnado.Shadows)
 - CollectionView
 - Shapes (Path) - Nova feature do Xamarin.Forms
 - XamarinForms 4.7.0.968
